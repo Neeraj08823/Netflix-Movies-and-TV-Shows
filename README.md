@@ -1,18 +1,53 @@
-# Netflix Dataset – Data Cleaning Task
+# 📺 Netflix Dataset Cleaning – Internship Task
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-green)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+---
+
+## 📑 Table of Contents:
+
+- [Overview](#-overview)
+- [Dataset](#-dataset)
+- [Objectives](#-objectives)
+- [Tools Used](#-tools-used)
+- [Tasks Performed](#-tasks-Performed)
+- [Output](#-output)
+
+---
+
+## 🧾 Overview:
+
+This project involves cleaning and preprocessing the **Netflix Movies and TV Shows** dataset as part of a Data Analyst internship assignment. The goal is to make the dataset ready for analysis or visualization by handling common issues like missing values, duplicate rows, inconsistent formats, and more.
+
+---
 
 ## 📊 Dataset:
 
-[Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+**Source:** [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
+**Rows:** 8,797 after cleaning  
+**Columns:** 12 including `show_id`, `type`, `title`, `date_added`, `rating`, etc.
 
-## 🧹 Objective:
+---
 
-Clean and preprocess the raw Netflix dataset using Python (Pandas) to make it ready for analysis.
+## 🎯 Objectives:
 
-## 🛠️ Tools Used:
+- Handle missing and duplicate values
+- Clean text fields for consistency
+- Convert dates to datetime format
+- Standardize column names
+- Export a cleaned dataset ready for analysis
 
-- Python 3.x
-- Pandas Library
+---
+
+## 🛠 Tools Used:
+
+- Python 3.8+
+- Pandas
 - VS Code
+- Git & GitHub
 
 ## ✅ Tasks Performed:
 
